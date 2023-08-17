@@ -1,0 +1,927 @@
+<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img_5.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Costume 2 Tons Unique & Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-6.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Costume 2 Tons Unique & Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-7.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Body & Pantalon Large</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-8.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Combinaison</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-9.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Chemise Crop - Top & Pantalon Large</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-10.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Combinaison en Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-11.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Combinaison en Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-12.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Combinaison en Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-13.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Santoum</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-14.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Santoum</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-16.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Manteau</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-17.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Veste Manteau</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-18.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Avec Manches Evasés Fente Devant</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-19-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Plissé en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-20-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Chemise & Mini Jupe en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-21-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Manteau en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-22-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe 3/4 Velour & Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-23-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Veste & Mini Jupe en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-24-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-25.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Ensemble Chaussure Sacs & Sacoche en Wax</h3>
+					<div class="Price"> 35 000FCFA <span>30 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-26.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3> Sac à Main en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-27.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Sac à Main en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-28.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Sacoche en Wax</h3>
+					<div class="Price"> 10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-29.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Ensemble Sachoce, Collier,Bijoux,Bracelet & Chaussures</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-30.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Ensemble Sachoce, Collier,Bijoux,Bracelet & Chaussures</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-32.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Collier Cauris en Wax</h3>
+					<div class="Price">10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-33.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Collier,Bijoux & Bracelet</h3>
+					<div class="Price"> 10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-34.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Collier Piramyde en Wax</h3>
+					<div class="Price"> 10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-35.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Chaussures Sébago</h3>
+					<div class="Price"> 15 000FCFA <span>10 000FCFA</span></div>
+<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img_5.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Costume 2 Tons Unique & Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-6.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Costume 2 Tons Unique & Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-7.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Body & Pantalon Large</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-8.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Combinaison</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-9.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Chemise Crop - Top & Pantalon Large</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-10.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Combinaison en Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+					<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-11.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Combinaison en Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-12.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Combinaison en Wax</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-13.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Santoum</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-14.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Santoum</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-16.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Manteau</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-17.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Veste Manteau</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-18.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Avec Manches Evasés Fente Devant</h3>
+					<div class="Price"> 25 000FCFA <span>20 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-19-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Plissé en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-20-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Chemise & Mini Jupe en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-21-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe Manteau en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-22-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe 3/4 Velour & Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-23-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Veste & Mini Jupe en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-24-removebg-preview.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Robe en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-25.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Ensemble Chaussure Sacs & Sacoche en Wax</h3>
+					<div class="Price"> 35 000FCFA <span>30 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-26.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3> Sac à Main en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-27.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Sac à Main en Wax</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-28.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Sacoche en Wax</h3>
+					<div class="Price"> 10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-29.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Ensemble Sachoce, Collier,Bijoux,Bracelet & Chaussures</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-30.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Ensemble Sachoce, Collier,Bijoux,Bracelet & Chaussures</h3>
+					<div class="Price"> 20 000FCFA <span>15 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-32.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Collier Cauris en Wax</h3>
+					<div class="Price">10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-33.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Collier,Bijoux & Bracelet</h3>
+					<div class="Price"> 10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-34.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Collier Piramyde en Wax</h3>
+					<div class="Price"> 10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-35.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Chaussures Sébago</h3>
+					<div class="Price"> 15 000FCFA <span>10 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-36.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Chaussure Ballerine Paillettes & Wax</h3>
+					<div class="Price"> 10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-37.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Tallon Scarpin en Wax</h3>
+					<div class="Price"> 15 000FCFA <span>10 000FCFA</span></div>
+				</div>				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-36.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Chaussure Ballerine Paillettes & Wax</h3>
+					<div class="Price"> 10 000FCFA <span>5 000FCFA</span></div>
+				</div>
+				
+				<div class="box">
+					<span class="discount">-10%</span>
+					<div class="image">
+						<img src="images/img-37.png" alt="">
+						<div class="icons">
+							<a href="#" class="fas fa-heart"></a>
+							<a href="#"class="cart-btn">add to cart	</a>
+							<a href="#"class="fas fa-share"></a>
+						</div>
+					</div>
+				<div class="content">
+					<h3>Tallon Scarpin en Wax</h3>
+					<div class="Price"> 15 000FCFA <span>10 000FCFA</span></div>
+				</div>
